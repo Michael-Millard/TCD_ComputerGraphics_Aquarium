@@ -1,0 +1,12 @@
+# Blender 4.2.3 LTS MTL File: 'jellyfish.blend'
+# www.blender.org
+
+newmtl purple
+Ns 1000.000000
+Ka 0.200000 0.200000 0.200000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.500000
+illum 6
+map_Kd D:/TCD_Courses/Computer_Graphics/millardm_CG_Deliv_3/textures/jellyfishPurple.jpg

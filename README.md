@@ -9,7 +9,7 @@ This video begins by demonstrating one of my advanced features: the shark feedin
 
 <table>
   <tr>
-    <td><img src="screenshots/ss3.png" width="200"/></td>
-    <td><img src="screenshots/ss2.png" width="200"/></td>
+    <td><img src="screenshots/ss3.png" width="400"/></td>
+    <td><img src="screenshots/ss2.png" width="400"/></td>
   </tr>
 </table>
